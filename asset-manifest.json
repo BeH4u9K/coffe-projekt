@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coffe-projekt/static/css/main.f7b41bb2.css",
+    "main.js": "/coffe-projekt/static/js/main.bfdc6b54.js",
+    "static/media/info_prise.svg": "/coffe-projekt/static/media/info_prise.fda775f8d80f758fe38c.svg",
+    "static/media/coffeBlok2.svg": "/coffe-projekt/static/media/coffeBlok2.e50c4d9f1d13a5dd8c4e.svg",
+    "static/media/coffeBlok1.svg": "/coffe-projekt/static/media/coffeBlok1.53b1a3f49c934d8caf68.svg",
+    "static/media/coffeBlok3.svg": "/coffe-projekt/static/media/coffeBlok3.0e6ee1c13dbc719090ca.svg",
+    "static/media/cofeeInfoText.svg": "/coffe-projekt/static/media/cofeeInfoText.e5b524259ba0828b6d2f.svg",
+    "static/media/catalog-blok1.svg": "/coffe-projekt/static/media/catalog-blok1.407a411c69fa1f150a47.svg",
+    "static/media/catalog-blok3.svg": "/coffe-projekt/static/media/catalog-blok3.f35ff3429fd5c96c2d49.svg",
+    "static/media/catalog-blok2.svg": "/coffe-projekt/static/media/catalog-blok2.cd41c079421ce08dbb24.svg",
+    "static/media/Site.svg": "/coffe-projekt/static/media/Site.719761e51aab32162e66.svg",
+    "static/media/coffe-few.svg": "/coffe-projekt/static/media/coffe-few.a5a19c95455625f1d016.svg",
+    "static/media/coffe-lot.svg": "/coffe-projekt/static/media/coffe-lot.995609dcfe46fddfb22c.svg",
+    "static/media/logoHeader.svg": "/coffe-projekt/static/media/logoHeader.04f4aee3bda494ccd89c.svg",
+    "static/media/ozon.svg": "/coffe-projekt/static/media/ozon.80e1e32921449b7de0c7.svg",
+    "static/media/wb.svg": "/coffe-projekt/static/media/wb.282f1dbf1763823ed74f.svg",
+    "index.html": "/coffe-projekt/index.html",
+    "main.f7b41bb2.css.map": "/coffe-projekt/static/css/main.f7b41bb2.css.map",
+    "main.bfdc6b54.js.map": "/coffe-projekt/static/js/main.bfdc6b54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b41bb2.css",
+    "static/js/main.bfdc6b54.js"
+  ]
+}
