@@ -51,7 +51,7 @@
 
 .Coffe_header {
   background-color: rgb(7, 91, 165);
-  width: 1519px;
+  width: auto;
   height: 848px;
   background-image: url(./svg/Site.svg);
   background-repeat: no-repeat;
